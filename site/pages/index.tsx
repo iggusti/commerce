@@ -61,7 +61,7 @@ export default function Home({
       </Marquee>
       <Hero
         headline=" Dessert dragée halvah croissant."
-        description="Cupcake ipsum dolor sit amet lemon drops pastry cotton candy. Sweet carrot cake macaroon bonbon croissant fruitcake jujubes macaroon oat cake. Soufflé bonbon caramels jelly beans. Tiramisu sweet roll cheesecake pie carrot cake. "
+        description="The future of shopping. With the convenience of online shopping, you can now purchase anything you need from the comfort of your own home. No more dealing with crowded stores and long lines. Plus, with the ability to shop from multiple retailers at once, you're sure to find the best deals and unique products. Additionally, many e-commerce stores offer free shipping and easy returns, making the shopping experience even more stress-free. Don't waste your time and energy at physical stores, switch to e-commerce and start shopping smarter today."
       />
       <Grid layout="B" variant="filled">
         {products.slice(0, 3).map((product: any, i: number) => (
